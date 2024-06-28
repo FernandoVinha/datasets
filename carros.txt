@@ -1,0 +1,598 @@
+The transport sector stands for about a quarter of the European
+greenhouse gas emissions, of which road transport contributes about 70
+percent (European Commission, 2018). To reach the climate goals set by
+2050, it is thus an urgent need for policymakers in Europe to understand
+more about how a transition towards a fossil-free transport sector can be
+achieved. Researchers have in recent years directed massive interests
+towards reducing the use of non-sustainable transport alternatives,
+mainly fossil-fuelled cars, see e.g. Eriksson et al. (2008), Kim et al.
+(2017), Masoumi (2019), Ababio-Donkor et al. (2020), and Danielis
+et al. (2022). A majority of this research is however focused on studying
+motives for transport choices when commuting to work/school, while
+considerably less is focused on transport to leisure activities.
+Since transport for other purposes than work or study constitute a
+substantial share of the total transported kilometres – in Sweden, the
+number of kilometres transported by car for leisure purposes is even
+higher than the equivalent for commuting (Transport Analysis, 2017) –
+it is important also to address leisure travels. Leisure travels are, how-
+ever, more irregular compared to commuting to work, as they often vary
+substantially concerning both purpose and time. Clearly, it is more feasible to try to change recurring travel behaviour between constant
+locations and for the same travel purpose, than to affect more irregular
+and multipurpose travelling behaviour. Nevertheless, the amount of
+greenhouse gas emissions is related to the total length of fossil-fuelled
+kilometres rather than to the number of routes, and it will not be suf-
+ficient to reduce carbon emissions stemming only from commuting.
+Improved knowledge about what factors that are important for car use to
+leisure activities is thus needed.
+This study aims to contribute with such knowledge. The purpose is to
+analyse what factors that explain differences in car use to different types
+of leisure activities. We focus on everyday leisure travelling, and more
+specifically on activity-based travel demand where we separate between
+travelling to maintenance activities and discretionary activities (see e.g.
+Castiglione et al., 2015; Loa et al., 2021). Maintenance activities (e.g.
+grocery shopping and visits to healthcare centres) are directed to meet
+basic human needs while discretionary activities are more focused on
+psychological needs (e.g. visiting friends/family, culture, sports, enter-
+tainment) (Chen and Mokhtarian, 2006). We thus recognize that there
+are differences between travelling to more repetitive leisure activities
+(maintenance activities) compared to discretionary activities that are
+less repetitive and destinations can be less familiar (Anable, 2002;Case Studies on Transport Policy 14 (2023) 101090
+2Schlich et al., 2004; Dharmowijoyo et al., 2018; Holden and Linnerud,
+2011), and are interested in analysing differences in explanatory factors
+for car use depending on leisure trip purposes. Moreover, leisure trips
+are often jointly decided and dependent on other individuals, such as
+other family members (Dugundji et al., 2008; Ohnmacht et al. 2009;
+Str¨omblad et al. 2022), and to account for this we include both driving in
+own car and co-riding in our definition of car use.
+Differences in infrastructure like the built environment and public
+transport has been found to explain differences in transport mode
+choices (Javaid et al., 2020). In addition to the importance of differences
+in conditions for transports between different types of residential areas
+(centralised vs. urban) we focus also on the impact of differences be-
+tween municipalities with fundamentally different conditions for
+transport. A survey was distributed to residents in five municipalities in
+Sweden, classified as metropolitan, urban or rural, which represent our
+case studies. The main motivation for these cases is that Sweden is, with
+the exception of a few metropolitan regions, a sparsely populated
+country with significant variation in transport conditions. This implies
+specific challenges for the transport sector, as both the potential and the
+challenges for a transition to fossil-free transports vary significantly. In
+particular, in many rural municipalities public transport is in principle
+non-existing and car use is therefore the only plausible option for longer difficult to affect compared to leisure trips that meet basic needs, which
+stresses that the motives for transport choices likely differ depending on
+the type of trip. In addition, individual attitudes as well as differences in
+resources and accessibility are also expected to affect differences in car
+use.
+The decision whether to use car or not can also be affected by a desire
+to act as a socially responsible person. Here, we follow Nyborg et al.
+(2006), and include an individual’s perceived personal responsibility to
+contribute to a sustainable transport sector as part of the process of
+deciding transport mode to leisure activities. We hypothesise that people
+that acknowledge a personal responsibility to use sustainable transport
+modes drive less to leisure activities than those who do not feel this
+responsibility. This approach is based on previous research stressing the
+importance of personal attitudes and norms for environmental behav-
+iour and transport mode choices (Hunecke et al., 2001; Nyborg et al.,
+2006; Ababio-Donkor et al., 2020; Str¨omblad et al., 2022, to mention a
+few). To test whether acknowledging a personal responsibility to
+contribute to a sustainable transport sector affects car use, and poten-
+tially is endogenously determined to this behaviour, we estimate
+recursive bivariate regression models. The factors expected to be related
+to acknowledging a personal responsibility are described in section 2.2
+below.
+Individual differences in car use can however also be the result of
+cognitive processes that to some extent are unconscious (Gardner and
+Abraham, 2008; Lanzini and Kahn, 2017), for instance by habitual
+behaviour (Bamberg et al., 2003; Eriksson et al., 2008; Verplanken et al.,
+2008; Pedersen et al., 2012; Thidell et al., 2012). Habitual driving is one
+example of bounded rationality; without reflecting much on the choice,
+people continue to do what they usually do. Ramos et al. (2020) found
+that habits (operationalised through a self-reported driving habit scale)
+are a predictor for car use also in non-commuting trips. Moreover,
+commuting by car has been found to increase the likelihood of using car
+also for other purposes (Sharmeen and Timmermans, 2014; Rubin et al.,
+2014). In this study, we are interested to analyse if those that regularly
+use car when commuting, and thus have a habit of using car for this
+purpose, more often use car also for leisure purposes.
+The availability and quality of alternative transport modes differ
+across municipalities, and therefore the comfort as well as time and
+monetary costs also vary locally and affect thus transport patterns.
+Research on the relationship between the built environment and travel
+behaviour is extensive, especially in the fields of urban planning and
+transportation, see Crane, 2000; Handy et al., 2005; Ewing and Cervero,
+2010, to mention a few. It has been found that actively reducing hinders
+to public or active transports, such as fast pathways and land use plan-
+ning, may impact car use (Ye and Titheridge, 2017). However, previous
+studies often focus on transport mode choices in geographically defined
+and uniform areas, such as urban or suburban areas (Eriksson and For-
+ward, 2011; Kl¨ockner and Friedrichsmeier, 2011; Muro-Rodriguez et al.,
+2017), where the conditions for car use compared to e.g. public trans-
+port is similar. In some small rural municipalities, public transport is
+however in principle non-existent, and cars may often be the only
+plausible option. This study analyses private car use in rural, urban, and
+metropolitan contexts. However, also in more urban municipalities
+there are areas outside of the central parts that are more sparsely
+populated, where the availability of alternatives to car use is often
+restricted, which is also controlled for. It is expected that those who live
+in rural municipalities, and in more sparsely populated areas, use cars
+more often for leisure activities.
+The type of car that the household owns can also affect the choice to
+drive. Previous research finds that so-called rebound effects may arise, e.
+g., individuals with electric cars may drive more as the marginal cost for
+driving is lower (no petrol/gasoline needed) and since they may feel that
+driving is less harmful to the environment (see, e.g. Br¨annlund et al.,
+2007; Dimitropoulos et al., 2017; Craglia and Cullen, 2020). We
+examine this empirically by controlling for access to a fossil-free car.
+According to previous research, individual differences in
+distance travels.
+It is further possible that differences in the extent to which people
+acknowledge a personal responsibility to contribute to a sustainable
+transport sector affect car use to leisure activities. The hypothesis is that
+car use is negatively related to perceptions that an individual has a
+personal responsibility to contribute to a more sustainable transport
+sector, among other factors. The analysis is based on survey responses
+from 1024 individuals with access to car in the household, collected
+from a web panel in May 2019.1 Given the possible relationship between
+car use and beliefs about personal responsibility, we apply recursive
+bivariate probit models. We also control for the impact of other factors
+for car use, e.g., type of area of residence, and sociodemographic char-
+acteristics, which previous research have identified as relevant (Ner-
+hagen, 2003; Hollevoet et al., 2011; Ettema, and Zwartbol, 2013; Muro-
+Rodrígues et al., 2017; Sovacool et al., 2018; Susilo et al., 2019; Correia
+et al., 2019; Hoerler et al., 2020).
+We add to the literature by focusing on different types of leisure
+travels, but also by considering differences in the conditions for trans-
+port depending on type of municipality, in addition to the more studied
+impacts related to population density in general. This knowledge is
+important for local, regional and national policy makers when they
+design and implement policies for a fossil-free transport sector, not least
+as the rural vs. urban tension that has become increasingly visible in
+Sweden is present between inhabitants in the rural, often inland, mu-
+nicipalities and the more urbanised metropolitan areas along the coasts.
+In this debate, access to car and costs for car use is central.
+2. Determinants of car use and personal responsibility
+2.1. Factors related to private car use
+The point of departure for the analysis is that individuals are
+assumed to choose car if it generates the highest expected utility (or
+lowest expected disutility), which is likely affected by which type of
+leisure activity that create demand for transport (Dekker et al., 2014).
+Transports to activities providing necessities (such as grocery shopping)
+are generally more of a routine, while transports to activities providing
+high expected satisfaction for the individual (such as visiting friends/
+family, culture, sports, entertainment) might be considered differently
+(Anable, 2002; Schlich et al., 2004; Dharmowijoyo et al., 2018). Holden
+and Linnerud (2011) also found that discretionary leisure trips are more sociodemographic factors, e.g., age, gender, education, and family sit-
+uation, may also affect transport behaviour (Nerhagen, 2003; Hollevoet
+et al., 2011; Ettema and Zwartbol, 2013; Muro-Rodrígues et al., 2017;
+Sovacool et al., 2018; Correia et al., 2019; Susilo et al., 2019; Hoerler
+et al., 2020). Younger individuals have for instance been shown to be
+less prone to use cars than older people, and households with higher
+incomes use private cars more often than households with lower in-
+comes (Thidell et al., 2012; Ramos et al., 2020). For older generations,
+Susilo et al. (2019) found that men drive more than females, but for
+younger generations, this gender gap seems to be diminishing. Another
+interesting finding related to gender differences identified by Sovacool
+et al. (2018) is that females drive shorter distances. The effect of gender
+on car use is thus ambiguous, according to previous research. Cirillo and
+Axhausen (2006) found that households with children more often use
+private car when travelling. We examine this and control for socio-
+demographic differences stemming from age, income, gender, house-
+hold composition. Given that our sample is somewhat restricted
+regarding income, since it includes only respondents with access to
+private cars, we do however not expect income to be an important factor
+for car use.
+2.2. Factors related to personal responsibility
+As described above, we analyse what factors that are related to the
+probability that an individual state that she or he feel a personal re-
+sponsibility to contribute to a more sustainable transport sector.
+Following Brekke et al. (2003) we assume that problem awareness is
+positively related to acknowledging a personal responsibility. Those
+stating in the survey that they are concerned about climate change are
+considered to be problem aware and more likely to acknowledge a
+personal responsibility than people less concerned about climate
+change. As well, people may have preferences for social approval (Rege,
+2002) which can motivate participation in collective actions (G¨achter
+and Fehr, 1999). In this context, we operationalise preferences for social
+expectations as those agreeing that friends and family think it is
+important to contribute to a sustainable transport sector, and examine
+whether there is any relationship between car use and social
+expectations.
+Although we do not have any a priori expectations about whether the
+probability to acknowledge a personal responsibility to contribute to a
+more sustainable transport sector differs for urban and rural residents,
+we examine this in the empirical part below. While the relationship
+between gender and transport behaviour is not completely clear, it is
+found that women have stronger environmental concerns and behaviour
+in general compared to men (Gifford and Nilsson, 2014). It has also been
+found that younger people are more concerned for environmental issues
+in general than older (Gifford and Nilsson, 2014). Based on these find-
+ings, we evaluate whether women and younger respondents are more
+prone to acknowledge a personal responsibility within the transport
+domain. In addition, we investigate whether the probability to
+acknowledge a personal responsibility to contribute to a sustainable
+transport sector differs concerning educational or income levels (although the income variation in the sample is somewhat restricted
+given that we only include households with access to car).
+3. Survey design, data collection, and descriptive statistics
+Data is collected through a survey directed to households in five
+municipalities in Sweden. The sample represents five municipalities that
+were chosen as our cases rather than a random representation of Swe-
+den. The main motivation for directing the survey to these municipal-
+ities is that we wanted to understand how differences in conditions (e.g.
+availability of public transport) between rural, urban and metropolitan
+cities affect car use to leisure activities.2 The municipalities were
+selected based on their differences regarding sociodemographic, popu-
+lation density, infrastructural, and geographic factors. One city is a
+growing metropolitan municipality (Stockholm), two are mid-sized
+urban municipalities ( ¨Orebro and Luleå), and two are small rural mu-
+nicipalities (Gislaved and Arvidsjaur).
+The first part of the survey collected socioeconomic and -de-
+mographic information. The second part included questions about how
+the respondents usually transport themselves to work/school, mainte-
+nance activities, and discretionary activities. The development of the
+questionnaire was supported by a reference group in which people from
+the Swedish EPA and local officials from the selected municipalities
+participated. The survey was also pre-tested, in one focus group with
+about ten graduate students and in a pilot in a later stage with about 20
+individuals with no specific prior knowledge about environmental im-
+pacts from the transport sector or transport policies. As a result of these
+tests, some of the questions were rephrased, and some questions were
+added (mainly as a result of suggestions from the municipal officials).
+The survey used a web panel administered by the company Norstat,
+collecting a minimum of 200 responses in the five municipalities in May
+2019 (almost a year before the covid-19 pandemic affected the transport
+sector in Sweden). In the rural municipalities, the number of partici-
+pants in the web panel were relatively few, therefore, responses from
+these municipalities were supplemented with phone interviews to
+randomly selected inhabitants in these municipalities (performed by the
+same company).
+In total, responses from 1173 individuals (adults older than 17 years)
+were collected. Only answers from respondents that actually can make a
+choice on whether to use car or not are considered relevant, given the
+purpose of the study. After removing the 149 respondents answering
+that they do not have access to a car in their household, and thus lacking
+the choice to use car, responses from 1024 individuals with access to car
+remained.
+Table 1 presents selected sample characteristics in comparison with
+the population in each type of municipality (metropolitan, urban and
+rural) and with the national average (for the pooled sample). Our re-
+spondents are slightly older than the average population in the country.
+We also note that women are overrepresented in the sample. The level of
+education (measured as a percentage with education level above high
+school) varies substantially between regions and municipalities, which
+is also reflected in our sample. The educational level in the sample is,
+however, higher, both compared to the national average and the mu-
+nicipality populations.
+The metropolitan municipality, Stockholm, has a high population
+density and is characterised by well-developed public transport,
+congestion, and high parking fees. This is also the area with the highest
+average household income in the country. In the urban mid-sized mu-
+nicipalities, public transport is less developed than in the metropolitan
+area, and the density of the cities often makes active transport a viable
+alternative. In the rural municipalities, public transport is scarce, distances are often long and private car use is therefore dominating.
+There are thus significant differences regarding the infrastructure for
+transport in the included areas in the study.
+The variables that have been included in the regressions are defined
+in Table 2. We expect leisure travels to often occur and be determined
+within households rather than individually. Therefore the dependent
+variable car use include both respondents either answering that they
+often or always transport themselves alone in the car (i.e., drive themselves), and those answering that they often or always co-ride in a
+car (drive and/or ride together with others).3 60 percent of the re-
+spondents answer that they always/often use private car for mainte-
+nance activities (about two thirds of these are alone in the car and one
+third co-ride), while 53 percent state that they do so for discretionary
+activities (more than half of these report that they often/always co-ride
+in a car). The dependent variables (car use to maintenance respectively
+discretionary activities and personal responsibility) are thus binary. For car
+use, one indicates that a respondent report that she/he always or often
+use car (either alone and/or co-ride) for transport to leisure activities.
+Answers were ranging on a five-graded scale between never (1) and
+always (5) and those answering 4 and 5 were coded as one.4 The re-
+spondents who do not use car always/often to these activities use either
+public transport or active transport (walk or bike), or a mixture of all
+alternatives.
+The personal responsibility variable is defined as those that agreed or
+strongly agreed (4 or 5 on a five graded Likert-scale) to the statement
+that they feel a personal responsibility to contribute to a sustainable
+transport sector. About 33 percent of the respondents were defined as
+acknowledging a personal responsibility related to a sustainable trans-
+port sector.5
+For the car use model, we analyse whether personal responsibility is also use car more often for leisure purposes, we include a variable
+denoted habit. In addition, we control for type of municipality and
+whether the respondent live in a sparsely populated area. As we want to
+examine possible rebound effects, an explanatory variable for non-fossil
+fuelled car is included. Relatively few respondents, only about 6 percent,
+report that they have access to such a car. Finally, we have included
+several sociodemographic variables in the car use model.
+The explanatory variables included in the personal responsibility
+model are social expectations and problem awareness, i.e. we expect
+those with family/friends that think it is important to contribute to a
+sustainable transport sector as well as those that worry about climate
+change to be more likely to acknowledge such responsibility. We include
+dummy variables for type of municipality to also control for any dif-
+ferences due to area of residence. The urban (mid-sized) municipalities
+are used as a reference category. Finally, sociodemographic variables
+are also included in this regression.
+4. Model specification
+As indicated previously, we assume that car users are utility max-
+imisers. We further hypothesise that private car use to leisure activities
+can be affected by whether or not the individual feels a personal re-
+sponsibility to contribute to a sustainable transport sector. To examine
+these relationships, two regression equation models, i.e., car use to lei-
+sure activities and personal responsibility, are estimated. As a personal
+responsibility to contribute to a sustainable transport sector could be
+endogenous to the respondent’s decision to use car for leisure purposes,
+we apply recursive bivariate probit models to jointly estimate the
+following relationship (Greene, 2003):
+y*
+1i = β1ix1i + γy2i + u1i (1)
+y*
+2i = β2ix2i + u2i
+where y*
+1i and y*
+2i represents the binary responses to the two depen-
+dent variables for respondent i, and x1i and x2i are the set of factors
+affecting the decision to use private cars when travelling to leisure ac-
+tivities respectively the personal responsibility to contribute to a sus-
+tainable transport sector. This is a specific case of a bivariate probit
+model (a recursive model) since the dependent variable y2i (personal
+responsibility) appears on the right-hand side of the first equation, whi
+related to car use and if this responsibility is endogenous to the use of car
+to these activities. To account for this we include the variable for per-
+sonal responsibility as an explanatory variable in the recursive model.
+To be able to analyse if those that regularly use car when commuting Case Studies on Transport Policy 14 (2023) 101090
+6the other dependent variable y1i (car use to leisure activities) does not
+appear on the right-hand side of any equation. The β1i and β2i are the
+vectors of parameter coefficients, and u1i and u1i are error terms (Greene,
+2003). Since y*
+1i and y*
+2i are binary variables, they take values 0 and 1 as
+defined in Table 2.
+The details regarding the bivariate normal cumulative distribution
+function and its density, as well as the likelihood functions can be found
+in Greene (2003). The correlation of the error terms is denoted rho, and a
+statistical significance of rho indicates correlated disturbance terms. If
+this is the case, the models should be estimated simultaneously and that
+the recursive model specification should be preferred over univariate
+model specifications. Thus, if rho cannot be separated from zero, the
+univariate probit models are preferred. The details for how to calculate
+the marginal effects in the recursive bivariate probit model can also be
+found in Greene (2003). We have used the software Stata for all
+estimations.
+5. Results for car use to leisure activities
+Below the results from the regressions for car use to both maintenance
+and discretionary activities are presented and discussed. Table 3 contains
+results regarding car use to maintenance activities, and Table 4 display
+the result regarding discretionary activities. Robust standard errors were
+used to control for any heteroscedasticity. No high correlations between
+the variables were found, and there is thus no evidence of severe
+multicollinearity.
+Regarding the results in Table 3, we note that rho is statistically
+significant, which indicates that acknowledging a personal re-
+sponsibility to contribute to a sustainable transport sector endogenously
+effects car use to maintenance activities. The negative and statistically
+significant coefficient for Personal responsibility in the car use model
+further indicate that respondents that acknowledge a personal re-
+sponsibility to contribute to a sustainable transport sector, are less prone
+to use car when travelling to maintenance activities.
+The results for car use further reveal that if a respondent has a habit
+of using car when commuting to work or school, the probability in-
+creases to use car also for maintenance purposes during leisure. As well,
+the probability of car use for maintenance purposes increases if the
+respondent lives in a sparsely populated area. Car use is significantly
+lower for respondents living in the metropolitan municipality, but there
+are no statistically significant differences between respondents living in
+rural and urban municipalities. There is no statically significant evi-
+dence of any rebound effect, i.e. that households owning a bio fuelled or
+electric car drive more than other households. The positive and statis-
+tically significant age coefficient indicate that older respondents drive
+more for maintenance activities than younger respondents do. This
+result is consistent with previous findings (Susilo et al., 2019). It is also
+found that respondents with higher education less often use the car to
+maintenance activities. Somewhat unexpected is it found that house-
+holds with children still living at home do not use the car for mainte-
+nance purposes more than households without children, contradictory
+to the findings in Cirillo and Axhausen (2006).
+The results for whether respondents state that they acknowledge a
+personal responsibility for a sustainable transport sector are displayed in
+the second column in Table 3. The results show that both social expec-
+tations and problem awareness are positively related to personal re-
+sponsibility, i.e. respondents that have family/friends that think it is
+important to contribute to a sustainable transport sector and re-
+spondents that worry about climate change are more likely to
+acknowledge such a responsibility. We do not find that the probability to
+acknowledge a personal responsibility differs for respondents living in
+different types of municipalities. Women more often acknowledge a
+personal responsibility to contribute to a sustainable transport sector
+than men, which is in line with the findings in Gifford and Nilsson
+(2014). Marginal effects for the explanatory variables in the recursive
+bivariate probit regression models are displayed in Table A1 in the
+Appendix, for the case when respondents both use car when travelling to
+maintenance activities and acknowledge a personal responsibility. The
+results reveal that personal responsibility has the largest impact on car
+use. Car use decreases with almost 30 percent for respondents
+acknowledging a personal responsibility. We further note that habits,
+being a female, and the municipality or area of residence impact car use
+of about the same magnitude.
+Table 4 presents the results for car use to discretionary activities, such
+as visiting family/friends, cultural events, restaurants, or sports activ-
+ities. For these activities rho in the recursive model is not statistically
+significant, indicating that acknowledging a personal responsibility to
+contribute to a sustainable transport sector is not endogenous for car use
+to these types of activities. We therefore estimate a univariate probit
+model for car use to discretionary activities.
+The results in Table 4 indicate that personal responsibility is statis-
+tically significant also for the discretionary model, suggesting that re-
+spondents that acknowledge a personal responsibility to contribute to a
+sustainable transport sector are less prone to use car when travelling to
+these activities. As well, respondents that often or always drive to work
+or school are more prone to take the car, indicating that the habit of
+commuting by car increases car use also for discretionary purposes.
+Respondents living in a metropolitan municipality are less likely to take
+the car also for discretionary purposes, which is expected given the
+developed public transport in metropolitan areas. In addition, results
+reveal that respondents living in rural municipalities use cars more for
+discretionary purposes compared to those living in urban municipalities,
+which we did not find for maintenance activities. However, living in a
+sparsely populated area does not seem to influence car use for discre-
+tionary activities. Nor does having a bio fuelled or an electric car
+significantly affect car use to discretionary activities, i.e., no evidence of
+any so-called rebound effect is found for these activities either.
+None of the sociodemographic variables, have any statistically sig-
+nificant effect on car use to discretionary activities. The marginal effects
+for the univariate probit regression for car use for discretionary purposes
+are displayed in Table A2 in the Appendix. The results reveal that the
+habit of using the car when travelling to work/school has the largest
+impact also on car use to discretionary activities. Which type of mu-
+nicipality that the respondent resides in also have a substantial impact
+on this choice, even though to a lesser extent than habits. Acknowl-
+edging a personal responsibility have a similar impact to car use as
+which type of municipality that the respondent lives in.
+These results are based on the self reported responses about how
+common respondents use car for leisure trips and the alternatives, in
+particular between the extremes never and always, can have different
+meanings for different respondents. Therefore, we estimated the models
+with the dependent variable defined as only respondents reporting that
+they always use car (5 on the Likert-scale) set equal to 1.6 While about
+60 percent report that they always or often use car for maintenance
+purposes, only about 25 percent of these always use car. The corre-
+sponding proportions for discretionary travels are 53 percent (always or
+often) and 20 (always). Regarding maintenance, the results from the
+econometric analysis are similar; there are no differences regarding
+preferred model (recursive specification) or impact of personal re-
+sponsibility. However, there is some variation in the effect of socio-
+economic differences, instead of education, the coefficient for female
+is positive and statistically significant. Regarding discretionary travels,
+differences were more substantial. The univariate models are still
+preferred, but now there is no statistically significant evidence that
+differences in acknowledging a personal responsibility are related to car
+use. Overall, the results from analysing only those that always (5) use car
+is in line with the findings when analysing frequent car users, i.e. both Case Studies on Transport Policy 14 (2023) 101090
+7those that often (4) and always (5) use car to these activities.
+In sum, the results indicate that feeling a personal responsibility to
+contribute to a sustainable transport sector endogenously affects the
+choice to use car when travelling to maintenance activities, such as
+shopping and visiting the doctor. However, this is not found when
+travelling to discretionary activities, such as visiting family/friends,
+cultural events, restaurants, or sports activities. However, also for these
+types of activities acknowledging a personal responsibility has an impact
+on car use (at least in the specification including those that often or
+always use car). The type of municipality and area that the respondents
+reside in, and the habit of also driving when commuting, do also influ-
+ence the use of car to both types of leisure activities. Regarding socio-
+demographic variables, the results are less clear and differs between the
+models, while age is positively related and educational level is nega-
+tively related to car use for maintenance purposes, there are no statis-
+tically significant evidence that age or educational level affects car use
+for discretionary purposes. We do not find any evidence that having
+children in the household affects car use for leisure activities, neither
+any rebound effect from access to a non-fossil fueled car. We also tested
+(both for discretionary and maintenance activities) whether car use
+differ across generations rather than for age continuously (following e.g.
+Susilo et al., 2019), but no statistically significant evidence of such
+differences was identified when the age variable was separated into
+categories. Finally, income has been included as explanatory variable
+but since it was not statistically significant in any of the specifications it
+was omitted from the models presented here.
+6. Discussion and concluding remarks
+The transition to a fossil-free transport sector will require that fossil-
+fuelled car transports decrease also for leisure purposes, as these travels
+constitute a significant share of total transports. This paper aimed to
+explain individual differences in car use for travelling to leisure activ-
+ities in different municipalities in Sweden. We found that although
+about one-third of the respondents’ state that they feel a personal re-
+sponsibility to contribute to a sustainable transport sector, more than
+half of the respondents use the car (always or often) when travelling to
+and from daily leisure activities. We have examined whether differences
+in perceptions about personal responsibilities, habits to use car for
+commuting, municipal type, area of residence, and sociodemographic
+characteristics can explain car use for these leisure travels.
+Results show that respondents that perceive that they have a per-
+sonal responsibility to contribute to a sustainable transport sector are
+less likely to use the car when travelling during leisure, which is
+consistent with the findings of, e.g. Ababio-Donkor et al. (2020) and
+Hunecke et al. (2001). In fact, personal responsibility has the most
+noteworthy and the largest impact on car use for maintenance purposes,
+while for travels for discretionary purposes habits to commute by car
+and type of residential area have the greatest impact. For travels with
+maintenance purposes the results indicate that beliefs about the personal
+responsibility is endogenous to the choice to use car (i.e. the recursive
+models are preferred over univariate). When it comes to discretionary
+activities, we do however not find any evidence that personal beliefs
+about responsibilities are endogenous to car use (i.e. the univariate
+model is preferred), and for respondents always using car for discre-
+tionary purposes, such beliefs do not seem to affect car use at all. This
+difference between different travel purposes is interesting. One possible
+explanation can be that maintenance activities are generally more reg-
+ular and frequent (e.g., grocery shopping) than discretionary activities
+(e.g., social activities), and thus that travels for these purposes becomes
+more of a routine, more similar to the decision on how to commute,
+which may be determined by previous reflections regarding costs, con-
+venience but also environmental impacts, resulting in a regular use of a
+specific transport mode. As travels for discretionary activities are not
+only more diverse, they are also more important for personal wellbeing
+and associated with positive emotions to a higher extent than travels for maintenance purposes. As a consequence of heterogeneity and perceived
+importance of the discretionary leisure activities, each associated travel
+may be less reflected upon, for instance regarding its environmental
+impacts. This result may thus be in line with the claims of previous
+research, that the discretionary travels are likely more difficult to un-
+derstand and change (Holden and Linnerud, 2011; Zhu and Fan, 2018).
+Regarding the importance of the habit of car use when commuting,
+we find that people who regularly commute by car are more likely to use
+the car also for leisure purposes which is also consistent with previous
+findings (Bamberg et al., 2003; Eriksson et al., 2008; Pedersen et al.,
+2012). This suggests that the results of measures aimed at reducing
+unsustainable commuting patterns may spill over also when travelling to
+leisure activities.
+It is not surprising that respondents in metropolitan Stockholm are
+least prone to car use, nor that car use is more frequent in the rural
+municipalities. Although we have analysed travel behaviour in a limited
+number of cases, it is likely that many small rural municipalities in
+Sweden (and in other countries) share similar conditions. The transition
+to fossil-free transports in theses rural cities is more challenging since
+alternatives to car are limited and distances generally longer. Thus, in
+rural municipalities, as well as in sparsely populated areas in general,
+cars will likely be an important transport option also in the future, and
+therefore, support to developments of fossil-free fuels and electrification
+also in sparsely populated areas are necessary. Our results do however
+not indicate any differences in the probability to acknowledge a personal
+responsibility depending on type of municipality or residential area.
+This indicates that more frequent car use in rural and sparsely populated
+areas cannot be explained by differences in perceptions about personal
+responsibilities to contribute to sustainable transports, rather it can be
+explained by the different conditions for transport in these areas.
+We do not find any direct gender effect on car use, while other
+studies have found that women drive less frequent for all purposes
+except for child-related trips (Ramos et al., 2020). Results indicate
+however an indirect gender effect, via perceptions about personal re-
+sponsibility to contribute to a sustainable transport sector. Women are
+more likely to acknowledge this responsibility, as are people concerned
+about climate change and those with people close expecting them to act
+more sustainably when travelling. One limitation with this study is
+however that our sample includes more women and educated in-
+dividuals compared to the populations from which they are drawn. As a
+result of this overrepresentation, it is possible that these results over-
+estimate the extent to which people acknowledge a personal re-
+sponsibility for sustainable transports.
+A general result is that there are differences between transport to
+maintenance and discretionary activities, especially we find that a per-
+sonal responsibility to contribute to a sustainable transport sector is
+endogenous to, and has a large impact on, car use to maintenance ac-
+tivities. We also find that most of the variation in car use for discre-
+tionary purposes is explained by other factors than the ones included
+here. This is likely because discretionary purposes for travel is even
+more heterogenous, and therefore difficult to explain. Our findings are
+generally consistent with the findings in the qualitative study of
+Str¨omblad et al. (2022), on car use for leisure purposes in a mid-sized
+urban city in Sweden. We recommend more research, using mixed
+methods, so as to generate both a deep understanding and generalisable
+knowledge of the factors that are important for car use for these het-
+erogeneous leisure travels, especially those with a discretionary pur-
+pose. Our findings indicate that it is important to break car commuting
+habits to achieve a more sustainable transport behaviour also when
+travelling during leisure. In addition, activities aimed to increase the
+potential for active transport modes (walking and cycling) when
+commuting in municipalities with less availability and potential for
+public transport are important for decreasing car use also during leisure.
+Thus, municipal planning and policies aimed at building societies with
+shorter distances to all types of activities, especially those for discre-
+tionary purposes, are therefore recommended.
